@@ -1,2 +1,2 @@
 # algoWithPy
-Practicng algorithms and data structures with python
+Practicing algorithms and data structures with python

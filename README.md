@@ -7,3 +7,6 @@ Progress:
 -basics of recursion
 -divide & conquer
 -selection sort
+-RPM method for multiplication
+-magic squares with Kurushima's algorithm
+

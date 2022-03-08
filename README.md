@@ -11,4 +11,6 @@ Progress:
 -selection sort
 -RPM method for multiplication
 -magic squares with Kurushima's algorithm
+-continued fractions with recursion
+-random number generators
 

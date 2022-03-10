@@ -13,4 +13,7 @@ Progress:
 -magic squares with Kurushima's algorithm
 -continued fractions with recursion
 -random number generators
+-optimizing algorithms
+-traveling salesman problem & combinatorial explosion
+-nearest neighbor algorithm
 

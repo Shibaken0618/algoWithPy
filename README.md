@@ -16,4 +16,7 @@ Progress:
 -optimizing algorithms
 -traveling salesman problem & combinatorial explosion
 -nearest neighbor algorithm
+-simulated annealing
+-fine tuning algorithms
+
 

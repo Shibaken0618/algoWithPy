@@ -13,8 +13,8 @@ final_stations = set()
 while states_needed:
     best_station = None
     states_covered = set()
-    for station, states_for_station in stations.items():
-        covered = states_needed and states_for_station
+    for station, states in stations.items():
+        covered = states_needed & states
         if len(covered) > len(states_covered):
             best_station = station
             states_covered = covered
